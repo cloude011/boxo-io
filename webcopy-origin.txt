@@ -1,0 +1,1376 @@
+Uri: https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=boxo-2&theme=light
+File Name: C:\Downloaded Web Sites\www.boxo.io\widgets\embed-image\v1\featured.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2Wp2ywxg089UriCZaSExd86J3t9jz86MvyyKK58VXh.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\s\dmsans\v17\rP2Wp2ywxg089UriCZaSExd86J3t9jz86MvyyKK58VXh.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2Wp2ywxg089UriCZaSExd86J3t9jz86MvyyKy58Q.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\s\dmsans\v17\rP2Wp2ywxg089UriCZaSExd86J3t9jz86MvyyKy58Q.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\s\dmsans\v17\rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu6-K6h9Q.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\s\dmsans\v17\rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu6-K6h9Q.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/fragmentmono/v6/4iCr6K5wfMRRjxp0DA6-2CLnB41HhrUI.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\s\fragmentmono\v6\4iCr6K5wfMRRjxp0DA6-2CLnB41HhrUI.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/fragmentmono/v6/4iCr6K5wfMRRjxp0DA6-2CLnB45HhrUI.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\s\fragmentmono\v6\4iCr6K5wfMRRjxp0DA6-2CLnB45HhrUI.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/fragmentmono/v6/4iCr6K5wfMRRjxp0DA6-2CLnB4NHhg.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\s\fragmentmono\v6\4iCr6K5wfMRRjxp0DA6-2CLnB4NHhg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE9_B-bnBeA.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\s\manrope\v20\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE9_B-bnBeA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE9_C-bk.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\s\manrope\v20\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE9_C-bk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE9_G-bnBeA.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\s\manrope\v20\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE9_G-bnBeA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE9_M-bnBeA.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\s\manrope\v20\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE9_M-bnBeA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE9_N-bnBeA.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\s\manrope\v20\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE9_N-bnBeA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE9_P-bnBeA.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\s\manrope\v20\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE9_P-bnBeA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/05KsVHGDmqXSBXM4yRZ65P8i0s.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\05KsVHGDmqXSBXM4yRZ65P8i0s.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/0E7IMbDzcGABpBwwqNEt60wU0w.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\0E7IMbDzcGABpBwwqNEt60wU0w.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/0iDmxkizU9goZoclqIqsV5rvETU.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\0iDmxkizU9goZoclqIqsV5rvETU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/0SEEmmWc3vovhaai4RlRQSWRrz0.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\0SEEmmWc3vovhaai4RlRQSWRrz0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/1aaySnsnw0pKE2qUemKvHaM1tw.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\1aaySnsnw0pKE2qUemKvHaM1tw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/1K3W8DizY3v4emK8Mb08YHxTbs.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\1K3W8DizY3v4emK8Mb08YHxTbs.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/2A4Xx7CngadFGlVV4xrO06OBHY.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\2A4Xx7CngadFGlVV4xrO06OBHY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/2BmSa4TZZvFKAZg2DydxTbvKlTU.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\2BmSa4TZZvFKAZg2DydxTbvKlTU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/2uIBiALfCHVpWbHqRMZutfT7giU.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\2uIBiALfCHVpWbHqRMZutfT7giU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/2yEyxokC6poTg3Uc5E2ogfVi6WE.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\2yEyxokC6poTg3Uc5E2ogfVi6WE.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/3IqofWpyruZr7Qc3kaedPmw7o.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\3IqofWpyruZr7Qc3kaedPmw7o.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/3on0VNjjmogkq1f9ziKFcrY72MI.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\3on0VNjjmogkq1f9ziKFcrY72MI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/3RO0kKTqHkJmvsJcJAr5at0.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\3RO0kKTqHkJmvsJcJAr5at0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/3ZmXbBKToJifDV9gwcifVd1tEY.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\3ZmXbBKToJifDV9gwcifVd1tEY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/43sJ6MfOPh1LCJt46OvyDuSbA6o.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\43sJ6MfOPh1LCJt46OvyDuSbA6o.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/4hBRAuM02i3fsxYDzyNvt5Az2so.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\4hBRAuM02i3fsxYDzyNvt5Az2so.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/4hhgqiTCDCCa8WhFmTB7QXODupk.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\4hhgqiTCDCCa8WhFmTB7QXODupk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/4oIO9fB59bn3cKFWz7piCj28z9s.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\4oIO9fB59bn3cKFWz7piCj28z9s.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/4RAEQdEOrcnDkhHiiCbJOw92Lk.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\4RAEQdEOrcnDkhHiiCbJOw92Lk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/5A3Ce6C9YYmCjpQx9M4inSaKU.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\5A3Ce6C9YYmCjpQx9M4inSaKU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/5CcgcVyoWSqO1THBiISd6oCog.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\5CcgcVyoWSqO1THBiISd6oCog.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/5HcVoGak8k5agFJSaKa4floXVu0.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\5HcVoGak8k5agFJSaKa4floXVu0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/5u1LyW8isA2RA3QfYvCc6TVeGSU.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\5u1LyW8isA2RA3QfYvCc6TVeGSU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/6dsy2CbviAWDcszGLlgyaLpRMk.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\6dsy2CbviAWDcszGLlgyaLpRMk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/6eYp9yIAUvPZY7o0yfI4e2OP6g.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\6eYp9yIAUvPZY7o0yfI4e2OP6g.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/6FI2EneKzM3qBy5foOZXey7coCA.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\6FI2EneKzM3qBy5foOZXey7coCA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/6mJuEAguuIuMog10gGvH5d3cl8.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\6mJuEAguuIuMog10gGvH5d3cl8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/6OdIurwS6YHsVW2i5fR5CKn0gg.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\6OdIurwS6YHsVW2i5fR5CKn0gg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/6ZMhcggRFfEfbf7lncCpaUbA.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\6ZMhcggRFfEfbf7lncCpaUbA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/7b925B3vAlG2atcrbV7LoSudp7c.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\7b925B3vAlG2atcrbV7LoSudp7c.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/7lw0VWkeXrGYJT05oB3DsFy8BaY.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\7lw0VWkeXrGYJT05oB3DsFy8BaY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/7pScaNeb6M7n2HF2jKemDqzCIr4.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\7pScaNeb6M7n2HF2jKemDqzCIr4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/867QObYax8ANsfX4TGEVU9YiCM.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\867QObYax8ANsfX4TGEVU9YiCM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/8AYN209PzikkmqPEbOGJlpgu6M.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\8AYN209PzikkmqPEbOGJlpgu6M.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/8dxmIktsyEgZt0OloSu5gz6TgLI.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\8dxmIktsyEgZt0OloSu5gz6TgLI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/8E92vrr3j1gDqzepmeSbD2u0JxA.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\8E92vrr3j1gDqzepmeSbD2u0JxA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/8exwVHJy2DhJ4N5prYlVMrEKmQ.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\8exwVHJy2DhJ4N5prYlVMrEKmQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/8kSLqTnVCEtjx0nu8PxTD4Nh5UU.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\8kSLqTnVCEtjx0nu8PxTD4Nh5UU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/8mwKwShtYEXIZ5diRBT74yn9jdQ.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\8mwKwShtYEXIZ5diRBT74yn9jdQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/8sCN6PGUr4I8q5hC5twAXfcwqV0.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\8sCN6PGUr4I8q5hC5twAXfcwqV0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/996sR9SfSDuYELz8oHhDOcErkY.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\996sR9SfSDuYELz8oHhDOcErkY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/9iRSYClnXA0RMygyIn6yjjWXJw.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\9iRSYClnXA0RMygyIn6yjjWXJw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/9Nu9BRcGkRrLnJCGqVdSUXJt2Ig.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\9Nu9BRcGkRrLnJCGqVdSUXJt2Ig.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/9WZaFuMg9OiQ7an8bugAJkUG04.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\9WZaFuMg9OiQ7an8bugAJkUG04.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/A0Wcc7NgXMjUuFdquHDrIZpzZw0.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\A0Wcc7NgXMjUuFdquHDrIZpzZw0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/A5P4nkYCJlLQxGxaS1lzG8PNSc.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\A5P4nkYCJlLQxGxaS1lzG8PNSc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/aqiiD4LUKkKzXdjGL5UzHq8bo5w.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\aqiiD4LUKkKzXdjGL5UzHq8bo5w.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/aUYDUTztS7anQw5JuwCncXeLOBY.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\aUYDUTztS7anQw5JuwCncXeLOBY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\b6Y37FthZeALduNqHicBT6FutY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/b8ezwLrN7h2AUoPEENcsTMVJ0.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\b8ezwLrN7h2AUoPEENcsTMVJ0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/bHYNJqzTyl2lqvmMiRRS6Y16Es.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\bHYNJqzTyl2lqvmMiRRS6Y16Es.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/biaVHhOprxbHaR3dIP7Z8cYurHg.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\biaVHhOprxbHaR3dIP7Z8cYurHg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/bIwBTbnyeAOa9wQIBagEdRDHXhE.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\bIwBTbnyeAOa9wQIBagEdRDHXhE.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/BkDpl4ghaqvMi1btKFyG2tdbec.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\BkDpl4ghaqvMi1btKFyG2tdbec.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/bNYh7lNMEpOegeRYAtyGel1WqBE.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\bNYh7lNMEpOegeRYAtyGel1WqBE.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Bo5CNzBv77CafbxOtKIkpw9egw.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\Bo5CNzBv77CafbxOtKIkpw9egw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/cdAe8hgZ1cMyLu9g005pAW3xMo.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\cdAe8hgZ1cMyLu9g005pAW3xMo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/CfMzU8w2e7tHgF4T4rATMPuWosA.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\CfMzU8w2e7tHgF4T4rATMPuWosA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/CnMzVKZxLPB68RITfNGUfLe65m4.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\CnMzVKZxLPB68RITfNGUfLe65m4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/cRJyLNuTJR5jbyKzGi33wU9cqIQ.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\cRJyLNuTJR5jbyKzGi33wU9cqIQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/cugnVhSraaRyANCaUtI5FV17wk.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\cugnVhSraaRyANCaUtI5FV17wk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/d3tHnaQIAeqiE5hGcRw4mmgWYU.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\d3tHnaQIAeqiE5hGcRw4mmgWYU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DF7bjCRmStYPqSb945lAlMfCCVQ.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\DF7bjCRmStYPqSb945lAlMfCCVQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DgDysCLt0HkIpWMu2uN5tivgQ.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\DgDysCLt0HkIpWMu2uN5tivgQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/dkR8k5Cze1rY2rQWCcFiLvNxm8M.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\dkR8k5Cze1rY2rQWCcFiLvNxm8M.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DOfvtmE1UplCq161m6Hj8CSQYg.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\DOfvtmE1UplCq161m6Hj8CSQYg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DolVirEGb34pEXEp8t8FQBSK4.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\DolVirEGb34pEXEp8t8FQBSK4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DpPBYI0sL4fYLgAkX8KXOPVt7c.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\DpPBYI0sL4fYLgAkX8KXOPVt7c.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DtVQjTG8OGGKnwKYrMHRZVCyo.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\DtVQjTG8OGGKnwKYrMHRZVCyo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DuYGXsyDXsSnxlZ8qzmcA4x3JiI.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\DuYGXsyDXsSnxlZ8qzmcA4x3JiI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/dWFiPjtJpfcxAIDV8RPyuCq04.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\dWFiPjtJpfcxAIDV8RPyuCq04.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DXD0Q7LSl7HEvDzucnyLnGBHM.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\DXD0Q7LSl7HEvDzucnyLnGBHM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DYHjxG0qXjopUuruoacfl5SA.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\DYHjxG0qXjopUuruoacfl5SA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/e3ySEnhUUpItjJUo5buJawUl4Y.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\e3ySEnhUUpItjJUo5buJawUl4Y.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/e97VFGU1js4GGgvQCnvIiHpRf0.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\e97VFGU1js4GGgvQCnvIiHpRf0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/eDNmF3DmGWYDX8NrhNZOl1SDyQ.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\eDNmF3DmGWYDX8NrhNZOl1SDyQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/efTfQcBJ53kM2pB1hezSZ3RDUFs.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\efTfQcBJ53kM2pB1hezSZ3RDUFs.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/eIZyQwIlHYR0mnMSneEDMtqBPgw.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\eIZyQwIlHYR0mnMSneEDMtqBPgw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/EL4v8OG6t2XwHSJLO1YF25DNiDw.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\EL4v8OG6t2XwHSJLO1YF25DNiDw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\EOr0mi4hNtlgWNn9if640EZzXCo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/eOWZqb2nQ1SLbtYmcGBFYFSOE5U.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\eOWZqb2nQ1SLbtYmcGBFYFSOE5U.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/ePuN3mCjzajIHnyCdvKBFiZkyY0.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\ePuN3mCjzajIHnyCdvKBFiZkyY0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/ez02GgtSJIWDvUwzSOvZsOArhOc.mp4
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\ez02GgtSJIWDvUwzSOvZsOArhOc.mp4
+Content Type: video/mp4
+
+Uri: https://framerusercontent.com/assets/EZSFVoaPWKnZ6GuVk5dlS5pk.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\EZSFVoaPWKnZ6GuVk5dlS5pk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/f2kclCrwmFV8YeznrosrT3kcjE.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\f2kclCrwmFV8YeznrosrT3kcjE.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/F3kdpd2N0cToWV5huaZjjgM.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\F3kdpd2N0cToWV5huaZjjgM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/F5hCCqGpiB1flS1fSp4Oyuf6XSA.mp4
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\F5hCCqGpiB1flS1fSp4Oyuf6XSA.mp4
+Content Type: video/mp4
+
+Uri: https://framerusercontent.com/assets/F5Lmfd3fCAu7TwiYbI4DLWw4ks.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\F5Lmfd3fCAu7TwiYbI4DLWw4ks.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/FBzcXZYmdulcZC0z278U6o0cw.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\FBzcXZYmdulcZC0z278U6o0cw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/fEqgEChcTaneQFxeugexHq7Bk.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\fEqgEChcTaneQFxeugexHq7Bk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/fIabp4VN5z7iJ3lNOz9qfNeQHc.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\fIabp4VN5z7iJ3lNOz9qfNeQHc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/FMAZXZOvzvP9daUF2pk7jeNQE.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\FMAZXZOvzvP9daUF2pk7jeNQE.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/fmXYBApyDC604dR7g2aaACGvCk.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\fmXYBApyDC604dR7g2aaACGvCk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/FNfhX3dt4ChuLJq2PwdlxHO7PU.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\FNfhX3dt4ChuLJq2PwdlxHO7PU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/ftN1HpyPVJEoEb4q36SOrNdLXU.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\ftN1HpyPVJEoEb4q36SOrNdLXU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/FuEG87bF2T2uEeI84KQYYAE9wA.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\FuEG87bF2T2uEeI84KQYYAE9wA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/fuyXZpVvOjq8NesCOfgirHCWyg.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\fuyXZpVvOjq8NesCOfgirHCWyg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/fWaKVy6hRB8Z8aBaXHMiFEvPILU.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\fWaKVy6hRB8Z8aBaXHMiFEvPILU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/fXvVh2JeZlehNcEhKHpHH0frSl0.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\fXvVh2JeZlehNcEhKHpHH0frSl0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/fz1JbBffNGgK7BNUI1mmbFBlgA8.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\fz1JbBffNGgK7BNUI1mmbFBlgA8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/gawbeo7iEJSRZ4kcrh6YRrU8o.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\gawbeo7iEJSRZ4kcrh6YRrU8o.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/gazZKZuUEtvr9ULhdA4SprP0AZ0.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\gazZKZuUEtvr9ULhdA4SprP0AZ0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/gcnfba68tfm7qAyrWRCf9r34jg.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\gcnfba68tfm7qAyrWRCf9r34jg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/GdJ7SQjcmkU1sz7lk5lMpKUlKY.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\GdJ7SQjcmkU1sz7lk5lMpKUlKY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/GeFYhvsobZhw8u0Xza2zCmC8Cw.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\GeFYhvsobZhw8u0Xza2zCmC8Cw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/GIryZETIX4IFypco5pYZONKhJIo.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\GIryZETIX4IFypco5pYZONKhJIo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/gLJVFeatQcrirAaS7jqVJIO4.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\gLJVFeatQcrirAaS7jqVJIO4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/gNa011yWpVpNFgUhhSlDX8nUiPQ.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\gNa011yWpVpNFgUhhSlDX8nUiPQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/GoWsxcsKZ1Hiy2Y8l40zBgNwYvo.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\GoWsxcsKZ1Hiy2Y8l40zBgNwYvo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/gQhNpS3tN86g8RcVKYUUaKt2oMQ.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\gQhNpS3tN86g8RcVKYUUaKt2oMQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/GSo3TkcX0SwmUNLnnUlsKhqgZI.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\GSo3TkcX0SwmUNLnnUlsKhqgZI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/H0Z3dXk6VFBv9TPQedY7FZVVVQ.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\H0Z3dXk6VFBv9TPQedY7FZVVVQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/H4TfENUY1rh8R9UaSD6vngjJP3M.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\H4TfENUY1rh8R9UaSD6vngjJP3M.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/H89BbHkbHDzlxZzxi8uPzTsp90.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\H89BbHkbHDzlxZzxi8uPzTsp90.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/HTPyW5jOpXfwIja9CrgNJUDriY4.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\HTPyW5jOpXfwIja9CrgNJUDriY4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/hyOgCu0Xnghbimh0pE8QTvtt2AU.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\hyOgCu0Xnghbimh0pE8QTvtt2AU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/I11LrmuBDQZweplJ62KkVsklU5Y.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\I11LrmuBDQZweplJ62KkVsklU5Y.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/ia3uin3hQWqDrVloC1zEtYHWw.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\ia3uin3hQWqDrVloC1zEtYHWw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/IETjvc5qzUaRoaruDpPSwCUM8.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\IETjvc5qzUaRoaruDpPSwCUM8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/if4nAQEfO1l3iBiurvlUSTaMA.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\if4nAQEfO1l3iBiurvlUSTaMA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Ig8B8nzy11hzIWEIYnkg91sofjo.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\Ig8B8nzy11hzIWEIYnkg91sofjo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Ii21jnSJkulBKsHHXKlapi7fv9w.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\Ii21jnSJkulBKsHHXKlapi7fv9w.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/iPDparXDXhfwSxmuiEXzr0b1vAU.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\iPDparXDXhfwSxmuiEXzr0b1vAU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/IpeaX0WzLaonj68howNZg4SJJaY.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\IpeaX0WzLaonj68howNZg4SJJaY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/iwWTDc49ENF2tCHbqlNARXw6Ug.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\iwWTDc49ENF2tCHbqlNARXw6Ug.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/JAur4lGGSGRGyrFi59JSIKqVgU.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\JAur4lGGSGRGyrFi59JSIKqVgU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/JEXmejW8mXOYMtt0hyRg811kHac.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\JEXmejW8mXOYMtt0hyRg811kHac.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/jplzYzqFHXreyADwk9yrkQlWQ.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\jplzYzqFHXreyADwk9yrkQlWQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/JVGAsgKKXCCsDQ3MCrxIs5u1U.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\JVGAsgKKXCCsDQ3MCrxIs5u1U.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Kc2fQgslJkMnNtu0ZUd2FfoVbbw.mp4
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\Kc2fQgslJkMnNtu0ZUd2FfoVbbw.mp4
+Content Type: video/mp4
+
+Uri: https://framerusercontent.com/assets/Kc2pkIGjh9K7EmlGx2sorKHcJDw.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\Kc2pkIGjh9K7EmlGx2sorKHcJDw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/KCj1bV3vDXY5OLHttTeRYcu9J8.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\KCj1bV3vDXY5OLHttTeRYcu9J8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/khkJkwSL66WFg8SX6Wa726c.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\khkJkwSL66WFg8SX6Wa726c.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/KKQXBq6BF0xEmVbrTnWxh3Yw.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\KKQXBq6BF0xEmVbrTnWxh3Yw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/KMFW46iYsEZaUBwXbwPc9nQm71o.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\KMFW46iYsEZaUBwXbwPc9nQm71o.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/ky8ovPukK4dJ1Pxq74qGhOqCYI.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\ky8ovPukK4dJ1Pxq74qGhOqCYI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/kZK78sVb0ChIxwI4EF00ArQvpu0.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\kZK78sVb0ChIxwI4EF00ArQvpu0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/l72nQILmlFUAK8OXlvJB8Qybl2M.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\l72nQILmlFUAK8OXlvJB8Qybl2M.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/L9nHaKi7ULzGWchEehsfwttxOwM.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\L9nHaKi7ULzGWchEehsfwttxOwM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/lEJLP4R0yuCaMCjSXYHtJw72M.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\lEJLP4R0yuCaMCjSXYHtJw72M.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/LfqxQLLXCFxnUuZS8fkv9AT0uI.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\LfqxQLLXCFxnUuZS8fkv9AT0uI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/MaMAn5Jp5gJg1z3VaLH65QwWPLc.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\MaMAn5Jp5gJg1z3VaLH65QwWPLc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/MF544SVCvk3yNpLIz3pwDXFZPKM.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\MF544SVCvk3yNpLIz3pwDXFZPKM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/mf9tsoOqtZTBXQWq27APMs3eEfk.mp4
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\mf9tsoOqtZTBXQWq27APMs3eEfk.mp4
+Content Type: video/mp4
+
+Uri: https://framerusercontent.com/assets/miJTzODdiyIr3tRo9KEoqXXk2PM.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\miJTzODdiyIr3tRo9KEoqXXk2PM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/MJ3N6lfN4iP5Um8rJGqLYl03tE.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\MJ3N6lfN4iP5Um8rJGqLYl03tE.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/mkY5Sgyq51ik0AMrSBwhm9DJg.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\mkY5Sgyq51ik0AMrSBwhm9DJg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/mKzAiDvphQ1qAmJcRwlQ0QOK3Dc.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\mKzAiDvphQ1qAmJcRwlQ0QOK3Dc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Mput0MSwESKlJ6TMz9MPDXhgrk.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\Mput0MSwESKlJ6TMz9MPDXhgrk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/MRDnh8epalyri0qENYQVaYkjNjA.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\MRDnh8epalyri0qENYQVaYkjNjA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/MVhJhYeDWxeyqT939zMNyw9p8.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\MVhJhYeDWxeyqT939zMNyw9p8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/mvNEIBLyHbscgHtwfsByjXUz3XY.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\mvNEIBLyHbscgHtwfsByjXUz3XY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/mYcqTSergLb16PdbJJQMl9ebYm4.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\mYcqTSergLb16PdbJJQMl9ebYm4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/MzumQQZJQBC6KM1omtmwOtsogtI.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\MzumQQZJQBC6KM1omtmwOtsogtI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/N9O1YBTY0ROZrE0GiMsoMSyPbQ.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\N9O1YBTY0ROZrE0GiMsoMSyPbQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/nE03Xxh2GngsU8hDpg6CRGxqfoM.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\nE03Xxh2GngsU8hDpg6CRGxqfoM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/NeGmSOXrPBfEFIy5YZeHq17LEDA.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\NeGmSOXrPBfEFIy5YZeHq17LEDA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/NHHeAKJVP0ZWHk5YZnQQChIsBM.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\NHHeAKJVP0ZWHk5YZnQQChIsBM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/nhSQpBRqFmXNUBY2p5SENQ8NplQ.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\nhSQpBRqFmXNUBY2p5SENQ8NplQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/nL7d8Ph0ViwUQorApF89PoAagQI.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\nL7d8Ph0ViwUQorApF89PoAagQI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/NNTAT1XAm8ZRkr824inYPkjNeL4.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\NNTAT1XAm8ZRkr824inYPkjNeL4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/NTJ0nQgIF0gcDelS14zQ9NR9Q.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\NTJ0nQgIF0gcDelS14zQ9NR9Q.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/NXxvFRoY5LDh3yCm7MEP2jqYk.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\NXxvFRoY5LDh3yCm7MEP2jqYk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Oeo14I4nHrq7vtngmez1Plewc8c.mp4
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\Oeo14I4nHrq7vtngmez1Plewc8c.mp4
+Content Type: video/mp4
+
+Uri: https://framerusercontent.com/assets/oG51mTqVfF2JDETyCzOOIQOpzY.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\oG51mTqVfF2JDETyCzOOIQOpzY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/OGegRh6ayaRbDDUXfuqXOmBM0.mp4
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\OGegRh6ayaRbDDUXfuqXOmBM0.mp4
+Content Type: video/mp4
+
+Uri: https://framerusercontent.com/assets/oJJMyJlDykMObEyb5VexHSxd24.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\oJJMyJlDykMObEyb5VexHSxd24.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/oLCoaT3ioA0fHdJnWR9W6k7NY.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\oLCoaT3ioA0fHdJnWR9W6k7NY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/otTaNuNpVK4RbdlT7zDDdKvQBA.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\otTaNuNpVK4RbdlT7zDDdKvQBA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/OxW7bkxVYziGRnONbuXLAeuUEkQ.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\OxW7bkxVYziGRnONbuXLAeuUEkQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/oYaAX5himiTPYuN8vLWnqBbfD2s.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\oYaAX5himiTPYuN8vLWnqBbfD2s.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Oyn2ZbENFdnW7mt2Lzjk1h9Zb9k.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\Oyn2ZbENFdnW7mt2Lzjk1h9Zb9k.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/P0JCAnd2N1Q6qwTQohre3XmQ.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\P0JCAnd2N1Q6qwTQohre3XmQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/P2Bw01CtL0b9wqygO0sSVogWbo.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\P2Bw01CtL0b9wqygO0sSVogWbo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/P2qr9PAWBt905929rHfxmneMUG0.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\P2qr9PAWBt905929rHfxmneMUG0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/PA6i4AJs5FNaGDHCjE2RL0WkMg.mp4
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\PA6i4AJs5FNaGDHCjE2RL0WkMg.mp4
+Content Type: video/mp4
+
+Uri: https://framerusercontent.com/assets/Pd8gNPn2dSCh4FyjWFw9PJysoQ.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\Pd8gNPn2dSCh4FyjWFw9PJysoQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/pe8RoujoPxuTZhqoNzYqHX2MXA.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\pe8RoujoPxuTZhqoNzYqHX2MXA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/PfdOpgzFf7N2Uye9JX7xRKYTgSc.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\PfdOpgzFf7N2Uye9JX7xRKYTgSc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/pFve2DToKu0uyKsWs4NBTHpK7Vc.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\pFve2DToKu0uyKsWs4NBTHpK7Vc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/PjAOIKsdFTryeYPWcKg4xHgWCTI.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\PjAOIKsdFTryeYPWcKg4xHgWCTI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/pKRFNWFoZl77qYCAIp84lN1h944.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\pKRFNWFoZl77qYCAIp84lN1h944.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/PONfPc6h4EPYwJliXQBmjVx7QxI.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\PONfPc6h4EPYwJliXQBmjVx7QxI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/qctQFoJqJ9aIbRSIp0AhCQpFxn8.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\qctQFoJqJ9aIbRSIp0AhCQpFxn8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/qITWJ2WdG0wrgQPDb8lvnYnTXDg.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\qITWJ2WdG0wrgQPDb8lvnYnTXDg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Qpek1Wzh1dJ3f8j88Vebg4yC92w.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\Qpek1Wzh1dJ3f8j88Vebg4yC92w.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/qQHxgTnEk6Czu1yW4xS82HQWFOk.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\qQHxgTnEk6Czu1yW4xS82HQWFOk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/QrcNhgEPfRl0LS8qz5Ln8olanl8.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\QrcNhgEPfRl0LS8qz5Ln8olanl8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/qS4UjQYyATcVV9rODk0Zx9KhkY8.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\qS4UjQYyATcVV9rODk0Zx9KhkY8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/QTKFuIAPTQlFFMI0HG9beHs3Xc.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\QTKFuIAPTQlFFMI0HG9beHs3Xc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Qx95Xyt0Ka3SGhinnbXIGpEIyP4.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\Qx95Xyt0Ka3SGhinnbXIGpEIyP4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/QxmhnWTzLtyjIiZcfaLIJ8EFBXU.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\QxmhnWTzLtyjIiZcfaLIJ8EFBXU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/r0mv3NegmA0akcQsNFotG32Las.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\r0mv3NegmA0akcQsNFotG32Las.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/raPlI8zqlyoXu4yBGiiecGg2dI.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\raPlI8zqlyoXu4yBGiiecGg2dI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/RDJfWXA0aFdpD2OO2AJLBh2Z7E.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\RDJfWXA0aFdpD2OO2AJLBh2Z7E.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/RJeJJARdrtNUtic58kOz7hIgBuE.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\RJeJJARdrtNUtic58kOz7hIgBuE.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/RkMAGv2iAm3rw7tZzs7FaZf0rM.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\RkMAGv2iAm3rw7tZzs7FaZf0rM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Rr10yYMqmBBL6OmSdh96oh2ve9k.mp4
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\Rr10yYMqmBBL6OmSdh96oh2ve9k.mp4
+Content Type: video/mp4
+
+Uri: https://framerusercontent.com/assets/rZ5DdENNqIdFTIyQQiP5isO7M.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\rZ5DdENNqIdFTIyQQiP5isO7M.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/s7NH6sl7w4NU984r5hcmo1tPSYo.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\s7NH6sl7w4NU984r5hcmo1tPSYo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/sbKS92i1h3PHXQYZi1WIOKYZa8.mp4
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\sbKS92i1h3PHXQYZi1WIOKYZa8.mp4
+Content Type: video/mp4
+
+Uri: https://framerusercontent.com/assets/SDel4nEmK9AyiBktaYZfYI9DrY.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\SDel4nEmK9AyiBktaYZfYI9DrY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Sj0PCHQSBjFmEp6NBWg6FNaKc.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\Sj0PCHQSBjFmEp6NBWg6FNaKc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/sMud1BrfhejzYfhsGoUtjWdRb90.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\sMud1BrfhejzYfhsGoUtjWdRb90.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/sOA6LVskcCqlqggyjIZe0Zh39UQ.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\sOA6LVskcCqlqggyjIZe0Zh39UQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/sQxGYWDlRkDr0eOKqiNRl6g5rs.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\sQxGYWDlRkDr0eOKqiNRl6g5rs.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/sSIKP2TfVPvfK7YVENPE5H87A.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\sSIKP2TfVPvfK7YVENPE5H87A.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/syRNPWzAMIrcJ3wIlPIP43KjQs.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\syRNPWzAMIrcJ3wIlPIP43KjQs.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/syX0favWwGMDkTs34aSUJp2FDg.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\syX0favWwGMDkTs34aSUJp2FDg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/t5RNiwIqoB2GvYhcdv6NPQF6kfk.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\t5RNiwIqoB2GvYhcdv6NPQF6kfk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/teGhWnhH3bCqefKGsIsqFy3hK8.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\teGhWnhH3bCqefKGsIsqFy3hK8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/TfzHIi6ZmZDuhnIFGcgM6Ipuim4.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\TfzHIi6ZmZDuhnIFGcgM6Ipuim4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/THWAFHoAcmqLMy81E8hCSdziVKA.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\THWAFHoAcmqLMy81E8hCSdziVKA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/tKtBcDnBMevsEEJKdNGhhkLzYo.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\tKtBcDnBMevsEEJKdNGhhkLzYo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/TMYuLEOqLWgunxD5qCFeADEgk.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\TMYuLEOqLWgunxD5qCFeADEgk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/TNtxudDBkAm2RXdtU3rvTBwoM.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\TNtxudDBkAm2RXdtU3rvTBwoM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/toNasQAsgu8B7dP8n9xdXRzdNhU.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\toNasQAsgu8B7dP8n9xdXRzdNhU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/TQqnntSFYYGDv7XtyT3ZhfvDA.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\TQqnntSFYYGDv7XtyT3ZhfvDA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/tUSCtfYVM1I1IchuyCwz9gDdQ.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\tUSCtfYVM1I1IchuyCwz9gDdQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/tVew2LzXJ1t7QfxP1gdTIdj2o0g.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\tVew2LzXJ1t7QfxP1gdTIdj2o0g.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/U1kEiQQO1ar9PuYJyyRkclmq8o.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\U1kEiQQO1ar9PuYJyyRkclmq8o.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/u6gJwDuwB143kpNK1T1MDKDWkMc.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\u6gJwDuwB143kpNK1T1MDKDWkMc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/U9LaDDmbRhzX3sB8g8glTy5feTE.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\U9LaDDmbRhzX3sB8g8glTy5feTE.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/ua60IRqWK94xCrq0SC639Hbsdjg.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\ua60IRqWK94xCrq0SC639Hbsdjg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/ub5XwqqEAMrXQz31ej6fNqbxnBc.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\ub5XwqqEAMrXQz31ej6fNqbxnBc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/ugFYeIKZEJXDxI6Kh0YQUX6EK9I.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\ugFYeIKZEJXDxI6Kh0YQUX6EK9I.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/UHqhq621TbUtspKtPKPA1Ne8qY.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\UHqhq621TbUtspKtPKPA1Ne8qY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/UjFZPDy3qGuDktQM4q9CxhKfIa8.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\UjFZPDy3qGuDktQM4q9CxhKfIa8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/UjlFhCnUjxhNfep4oYBPqnEssyo.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\UjlFhCnUjxhNfep4oYBPqnEssyo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/UrzZBOy7RyJEWAZGduzOeHiHuY.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\UrzZBOy7RyJEWAZGduzOeHiHuY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/UTeedEK21hO5jDxEUldzdScUqpg.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\UTeedEK21hO5jDxEUldzdScUqpg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/uy9s0iWuxiNnVt8EpTI3gzohpwo.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\uy9s0iWuxiNnVt8EpTI3gzohpwo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/V3j1L0o5vPFKe26Sw4HcpXCfHo.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\V3j1L0o5vPFKe26Sw4HcpXCfHo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vebZUMjGyKkYsfcY73iwWTzLNag.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\vebZUMjGyKkYsfcY73iwWTzLNag.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/VfD2n20yM7v0hrUEBHEyafsmMBY.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\VfD2n20yM7v0hrUEBHEyafsmMBY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vFOa28RMJNgff4GnWLns8E8vGZw.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\vFOa28RMJNgff4GnWLns8E8vGZw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vFzuJY0c65av44uhEKB6vyjFMg.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\vFzuJY0c65av44uhEKB6vyjFMg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/VgYFWiwsAC5OYxAycRXXvhze58.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\VgYFWiwsAC5OYxAycRXXvhze58.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vpq17U0WM26sBGHgq9jnrUmUf8.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\vpq17U0WM26sBGHgq9jnrUmUf8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vQyevYAyHtARFwPqUzQGpnDs.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\vQyevYAyHtARFwPqUzQGpnDs.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vSoBOmgqFUd0rVCgogjwL7jQI.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\vSoBOmgqFUd0rVCgogjwL7jQI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Vu4RH4OOAYHIXg4LpXVzNVmbpY.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\Vu4RH4OOAYHIXg4LpXVzNVmbpY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vuPfygr1n1zYxscvWgGI8hRf3LE.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\vuPfygr1n1zYxscvWgGI8hRf3LE.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vvNSqIj42qeQ2bvCRBIWKHscrc.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\vvNSqIj42qeQ2bvCRBIWKHscrc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vxBnBhH8768IFAXAb4Qf6wQHKs.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\vxBnBhH8768IFAXAb4Qf6wQHKs.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/w3wwH92cnNPcZVAf63gAmGQW0k.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\w3wwH92cnNPcZVAf63gAmGQW0k.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/w9aHRXFhel7kScIgRMsPqEwE3AY.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\w9aHRXFhel7kScIgRMsPqEwE3AY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/wccHG0r4gBDAIRhfHiOlq6oEkqw.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\wccHG0r4gBDAIRhfHiOlq6oEkqw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/WL8JiibS9vHU7Cb3NGaJKioRjQ.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\WL8JiibS9vHU7Cb3NGaJKioRjQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/wmHLUqO4QxLaADUScavxvknnBQ.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\wmHLUqO4QxLaADUScavxvknnBQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/wx5nfqEgOXnxuFaxB0Mn9OhmcZA.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\wx5nfqEgOXnxuFaxB0Mn9OhmcZA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/WXQXYfAQJIi2pCJACAfWWXfIDqI.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\WXQXYfAQJIi2pCJACAfWWXfIDqI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/WZ367JPwf9bRW6LdTHN8rXgSjw.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\WZ367JPwf9bRW6LdTHN8rXgSjw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/X5hj6qzcHUYv7h1390c8Rhm6550.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\X5hj6qzcHUYv7h1390c8Rhm6550.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/x8eJ5VkmPMHVhVbF0E8JYFJmwc.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\x8eJ5VkmPMHVhVbF0E8JYFJmwc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/xFtzow8wtMpaEQuIGgCbt25Qorg.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\xFtzow8wtMpaEQuIGgCbt25Qorg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/xPVm3TFQkuvdIaC7nzaBBAiE5Y.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\xPVm3TFQkuvdIaC7nzaBBAiE5Y.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/XRXDXcGEcHEhj5vRoCcaNzLUII.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\XRXDXcGEcHEhj5vRoCcaNzLUII.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/xwWV9Y5bwNwM4PjHKFG1XmdwA.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\xwWV9Y5bwNwM4PjHKFG1XmdwA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/xYYWaj7wCU5zSQH0eXvSaS19wo.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\xYYWaj7wCU5zSQH0eXvSaS19wo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\Y9k9QrlZAqio88Klkmbd8VoMQc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/yDiPvYxioBHsicnYxpPW35WQmx8.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\yDiPvYxioBHsicnYxpPW35WQmx8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/yDtI2UI8XcEg1W2je9XPN3Noo.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\yDtI2UI8XcEg1W2je9XPN3Noo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/yHa3FUh9QDCLkYGoHU44PsRbTI.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\yHa3FUh9QDCLkYGoHU44PsRbTI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/yHWoQPBZSEiCC3aW3JXtcoFby8o.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\yHWoQPBZSEiCC3aW3JXtcoFby8o.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/YJsHMqeEm0oDHuxRTVCwg5eZuo.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\YJsHMqeEm0oDHuxRTVCwg5eZuo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/YOHXUQlY1iC2t7qT4HeLSoBDtn4.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\YOHXUQlY1iC2t7qT4HeLSoBDtn4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/YYB6GZmCWnZq3RWZOghuZIOxQY.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\YYB6GZmCWnZq3RWZOghuZIOxQY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Z4sGWU2OKBoXPWulb5P25vULA.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\Z4sGWU2OKBoXPWulb5P25vULA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/zAMK70AQRFSShJgUiaR5IiIhgzk.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\zAMK70AQRFSShJgUiaR5IiIhgzk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/zLXnIInNs9VhCJZQ1B0FvHgtWDM.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\zLXnIInNs9VhCJZQ1B0FvHgtWDM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/ZRl8AlxwsX1m7xS1eJCiSPbztg.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\ZRl8AlxwsX1m7xS1eJCiSPbztg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/zsnJN7Z1wdzUvepJniD3rbvJIyU.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\zsnJN7Z1wdzUvepJniD3rbvJIyU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/zSsEuoJdh8mcFVk976C05ZfQr8.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\zSsEuoJdh8mcFVk976C05ZfQr8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/zUCSsMbWBcHOQoATrhsPVigkc.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\zUCSsMbWBcHOQoATrhsPVigkc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Zwfz6xbVe5pmcWRJRgBDHnMkOkI.woff2
+File Name: C:\Downloaded Web Sites\www.boxo.io\assets\Zwfz6xbVe5pmcWRJRgBDHnMkOkI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/images/0CtVixwpCkea93KpgzebeR11cDA.png?width=272&height=272
+File Name: C:\Downloaded Web Sites\www.boxo.io\images\0CtVixwpCkea93KpgzebeR11cDA.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/2oG0Mo2S10wSnVDX23fdgQoNOg.png?width=334&height=334
+File Name: C:\Downloaded Web Sites\www.boxo.io\images\2oG0Mo2S10wSnVDX23fdgQoNOg.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/2YfDRQ8SDv3KFrg1g8fqbznto.png?width=314&height=436
+File Name: C:\Downloaded Web Sites\www.boxo.io\images\2YfDRQ8SDv3KFrg1g8fqbznto.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/33YawOH1TtFOcFTMCeQElJXSL0.jpg?scale-down-to=2048&width=2049&height=1757
+File Name: C:\Downloaded Web Sites\www.boxo.io\images\33YawOH1TtFOcFTMCeQElJXSL0.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/36vLL9IABUGEB36ka7YBTnn1XE.jpg?scale-down-to=2048&width=2049&height=1757
+File Name: C:\Downloaded Web Sites\www.boxo.io\images\36vLL9IABUGEB36ka7YBTnn1XE.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/9y64yEqJuZdREhfAeOMrxnHnAs.png
+File Name: C:\Downloaded Web Sites\www.boxo.io\images\9y64yEqJuZdREhfAeOMrxnHnAs.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/ab0pOnUwYh5JhByaAcEHOkOo.jpg?width=750&height=1624
+File Name: C:\Downloaded Web Sites\www.boxo.io\images\ab0pOnUwYh5JhByaAcEHOkOo.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/dgdCy4315aJJWWPxl3TuixpW83s.jpg?width=750&height=1624
+File Name: C:\Downloaded Web Sites\www.boxo.io\images\dgdCy4315aJJWWPxl3TuixpW83s.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/DPIQpz3p658FbvQBbAtXQ75dQoM.jpg?width=750&height=1624
+File Name: C:\Downloaded Web Sites\www.boxo.io\images\DPIQpz3p658FbvQBbAtXQ75dQoM.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/GYSW8GDvaDgs3xCp4Q7pJDejh8.jpg?width=750&height=1624
+File Name: C:\Downloaded Web Sites\www.boxo.io\images\GYSW8GDvaDgs3xCp4Q7pJDejh8.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/hPMcbnhlOwbWA7daqw39sLWpnw.png?width=432&height=432
+File Name: C:\Downloaded Web Sites\www.boxo.io\images\hPMcbnhlOwbWA7daqw39sLWpnw.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/k7TKK0KJe2tueC9CKFRLS1c75wQ.jpg?scale-down-to=2048&width=2049&height=1757
+File Name: C:\Downloaded Web Sites\www.boxo.io\images\k7TKK0KJe2tueC9CKFRLS1c75wQ.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/lDQqbltIP9lhjvjtFk3HmYxakhA.png
+File Name: C:\Downloaded Web Sites\www.boxo.io\images\lDQqbltIP9lhjvjtFk3HmYxakhA.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/nenGRAdLeV1CJSbnlve040wMdo0.png?width=432&height=432
+File Name: C:\Downloaded Web Sites\www.boxo.io\images\nenGRAdLeV1CJSbnlve040wMdo0.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/OsNqf98gG3CZiLFOmmAW8Blk0hA.jpg?width=750&height=1624
+File Name: C:\Downloaded Web Sites\www.boxo.io\images\OsNqf98gG3CZiLFOmmAW8Blk0hA.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Th1FmGlfBU4R0fjLCCCjHJeYAIk.jpg?width=750&height=1624
+File Name: C:\Downloaded Web Sites\www.boxo.io\images\Th1FmGlfBU4R0fjLCCCjHJeYAIk.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/uGuj5SPTAtcVRfrJIGFN3nZEQyQ.jpg?width=1920&height=1080
+File Name: C:\Downloaded Web Sites\www.boxo.io\images\uGuj5SPTAtcVRfrJIGFN3nZEQyQ.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/UHqQ8bEA4W0bqd916NldCBrOQ2c.jpg?width=750&height=1624
+File Name: C:\Downloaded Web Sites\www.boxo.io\images\UHqQ8bEA4W0bqd916NldCBrOQ2c.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/xZowP9UcLEOyXSKpRXFIAAoyGCE.png?width=432&height=432
+File Name: C:\Downloaded Web Sites\www.boxo.io\images\xZowP9UcLEOyXSKpRXFIAAoyGCE.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/yZaltqEaGOCPmkKhHQ1ATr1e58.png?width=408&height=500
+File Name: C:\Downloaded Web Sites\www.boxo.io\images\yZaltqEaGOCPmkKhHQ1ATr1e58.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/z5izVnFL1No7u1YDuBSLnqUHrE8.jpg?scale-down-to=2048&width=2049&height=1757
+File Name: C:\Downloaded Web Sites\www.boxo.io\images\z5izVnFL1No7u1YDuBSLnqUHrE8.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/ZDpfAhYjI5fBt7Qh3RVqGkmTO2Y.jpg?width=750&height=1624
+File Name: C:\Downloaded Web Sites\www.boxo.io\images\ZDpfAhYjI5fBt7Qh3RVqGkmTO2Y.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/sites/2Aa7eLKqdCWfoTCuWMWJuk/codemirror_autocomplete.B6Kzhxo3.mjs
+File Name: C:\Downloaded Web Sites\www.boxo.io\sites\2Aa7eLKqdCWfoTCuWMWJuk\codemirror_autocomplete.B6Kzhxo3.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/2Aa7eLKqdCWfoTCuWMWJuk/Cx0Nd7tFh.BV6hJRZX.mjs
+File Name: C:\Downloaded Web Sites\www.boxo.io\sites\2Aa7eLKqdCWfoTCuWMWJuk\Cx0Nd7tFh.BV6hJRZX.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/2Aa7eLKqdCWfoTCuWMWJuk/Djd3KzfPW.QShxUq2F.mjs
+File Name: C:\Downloaded Web Sites\www.boxo.io\sites\2Aa7eLKqdCWfoTCuWMWJuk\Djd3KzfPW.QShxUq2F.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/2Aa7eLKqdCWfoTCuWMWJuk/f5aQ6NuJ0.CeBqEWxK.mjs
+File Name: C:\Downloaded Web Sites\www.boxo.io\sites\2Aa7eLKqdCWfoTCuWMWJuk\f5aQ6NuJ0.CeBqEWxK.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/2Aa7eLKqdCWfoTCuWMWJuk/framer.BEo4dseu.mjs
+File Name: C:\Downloaded Web Sites\www.boxo.io\sites\2Aa7eLKqdCWfoTCuWMWJuk\framer.BEo4dseu.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/2Aa7eLKqdCWfoTCuWMWJuk/frSARImZ6.CnsLhSu5.mjs
+File Name: C:\Downloaded Web Sites\www.boxo.io\sites\2Aa7eLKqdCWfoTCuWMWJuk\frSARImZ6.CnsLhSu5.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/2Aa7eLKqdCWfoTCuWMWJuk/index.es.Cb2hezBK.mjs
+File Name: C:\Downloaded Web Sites\www.boxo.io\sites\2Aa7eLKqdCWfoTCuWMWJuk\index.es.Cb2hezBK.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/2Aa7eLKqdCWfoTCuWMWJuk/jqeJyPQNLdPcAXDGYqGdmvfBCyI56-Cm4bETLbL_3hM.Be33tIY3.mjs
+File Name: C:\Downloaded Web Sites\www.boxo.io\sites\2Aa7eLKqdCWfoTCuWMWJuk\jqeJyPQNLdPcAXDGYqGdmvfBCyI56-Cm4bETLbL_3hM.Be33tIY3.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/2Aa7eLKqdCWfoTCuWMWJuk/KZq9Vz41a.ClNNT5s-.mjs
+File Name: C:\Downloaded Web Sites\www.boxo.io\sites\2Aa7eLKqdCWfoTCuWMWJuk\KZq9Vz41a.ClNNT5s-.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/2Aa7eLKqdCWfoTCuWMWJuk/lezer_lr.GVegKQQq.mjs
+File Name: C:\Downloaded Web Sites\www.boxo.io\sites\2Aa7eLKqdCWfoTCuWMWJuk\lezer_lr.GVegKQQq.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/2Aa7eLKqdCWfoTCuWMWJuk/motion.Bic6HjkD.mjs
+File Name: C:\Downloaded Web Sites\www.boxo.io\sites\2Aa7eLKqdCWfoTCuWMWJuk\motion.Bic6HjkD.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/2Aa7eLKqdCWfoTCuWMWJuk/mzgnEXktDubwLTkslbOhnbHFD1l3Mp0zq1v0xXw-ITU.DhDsoI3V.mjs
+File Name: C:\Downloaded Web Sites\www.boxo.io\sites\2Aa7eLKqdCWfoTCuWMWJuk\mzgnEXktDubwLTkslbOhnbHFD1l3Mp0zq1v0xXw-ITU.DhDsoI3V.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/2Aa7eLKqdCWfoTCuWMWJuk/NWkCScbQS.Bbz95nHn.mjs
+File Name: C:\Downloaded Web Sites\www.boxo.io\sites\2Aa7eLKqdCWfoTCuWMWJuk\NWkCScbQS.Bbz95nHn.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/2Aa7eLKqdCWfoTCuWMWJuk/react.C2fKhq-v.mjs
+File Name: C:\Downloaded Web Sites\www.boxo.io\sites\2Aa7eLKqdCWfoTCuWMWJuk\react.C2fKhq-v.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/2Aa7eLKqdCWfoTCuWMWJuk/rolldown-runtime.Dh6celcD.mjs
+File Name: C:\Downloaded Web Sites\www.boxo.io\sites\2Aa7eLKqdCWfoTCuWMWJuk\rolldown-runtime.Dh6celcD.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/2Aa7eLKqdCWfoTCuWMWJuk/script_main.DVbE2ER8.mjs
+File Name: C:\Downloaded Web Sites\www.boxo.io\sites\2Aa7eLKqdCWfoTCuWMWJuk\script_main.DVbE2ER8.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/2Aa7eLKqdCWfoTCuWMWJuk/shared.BVW9d8Yt.mjs
+File Name: C:\Downloaded Web Sites\www.boxo.io\sites\2Aa7eLKqdCWfoTCuWMWJuk\shared.BVW9d8Yt.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/2Aa7eLKqdCWfoTCuWMWJuk/Ticker.ByNDgcay.mjs
+File Name: C:\Downloaded Web Sites\www.boxo.io\sites\2Aa7eLKqdCWfoTCuWMWJuk\Ticker.ByNDgcay.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/2Aa7eLKqdCWfoTCuWMWJuk/Ticker._SmRst8a.mjs
+File Name: C:\Downloaded Web Sites\www.boxo.io\sites\2Aa7eLKqdCWfoTCuWMWJuk\Ticker._SmRst8a.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/2Aa7eLKqdCWfoTCuWMWJuk/TzOsoroIv.DXlG2I3i.mjs
+File Name: C:\Downloaded Web Sites\www.boxo.io\sites\2Aa7eLKqdCWfoTCuWMWJuk\TzOsoroIv.DXlG2I3i.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/2Aa7eLKqdCWfoTCuWMWJuk/xXSslivgg.Cp5ZuUlg.mjs
+File Name: C:\Downloaded Web Sites\www.boxo.io\sites\2Aa7eLKqdCWfoTCuWMWJuk\xXSslivgg.Cp5ZuUlg.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/2Aa7eLKqdCWfoTCuWMWJuk/YckFIlg3V.CAYhOnyK.mjs
+File Name: C:\Downloaded Web Sites\www.boxo.io\sites\2Aa7eLKqdCWfoTCuWMWJuk\YckFIlg3V.CAYhOnyK.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/2Aa7eLKqdCWfoTCuWMWJuk/YouTube.DV7JG2Mf.mjs
+File Name: C:\Downloaded Web Sites\www.boxo.io\sites\2Aa7eLKqdCWfoTCuWMWJuk\YouTube.DV7JG2Mf.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/2Aa7eLKqdCWfoTCuWMWJuk/yrbCq6tCB.C9vrmJTl.mjs
+File Name: C:\Downloaded Web Sites\www.boxo.io\sites\2Aa7eLKqdCWfoTCuWMWJuk\yrbCq6tCB.C9vrmJTl.mjs
+Content Type: text/javascript
+
+Uri: https://www.boxo.io/ai
+File Name: C:\Downloaded Web Sites\www.boxo.io\ai-1.html
+Content Type: text/html
+
+Uri: https://www.boxo.io/ai?ref=producthunt
+File Name: C:\Downloaded Web Sites\www.boxo.io\ai.html
+Content Type: text/html
+
+Uri: https://www.google.com/recaptcha/api.js
+File Name: C:\Downloaded Web Sites\www.boxo.io\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-CQVDTEVZ4V
+File Name: C:\Downloaded Web Sites\www.boxo.io\gtag\js
+Content Type: application/javascript
+
