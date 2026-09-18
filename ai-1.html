@@ -493,7 +493,7 @@
 	
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async="" src="gtag/js?id=G-CQVDTEVZ4V"></script>
-<style>a[data-framer-name="Facebook"],a[data-framer-name="Instagram"],a[data-framer-name="LinkedIn"]{display:none!important}</style></head>
+<style>a[data-framer-name="Facebook"],a[data-framer-name="Instagram"],a[data-framer-name="LinkedIn"]{display:none!important}[data-framer-name="PH Button"]{display:none!important}</style></head>
 <body>
 	<script async="" src="https://events.framer.com/script?v=2" data-fid="5abb6677c64c27111b6bd56ea2e9393d5df93b6d76ff5bc681608d4a8b04e275" data-no-nt=""></script>
 	<!-- Start of bodyStart -->
@@ -547,5 +547,26 @@
 	<!-- Start of bodyEnd -->
     
     <!-- End of bodyEnd -->
-</body>
+<script>(function(){
+function makeIcon(){
+var a=document.createElement('a');
+a.href='https://x.com/tryboxo';
+a.target='_blank';
+a.rel='noopener noreferrer';
+a.setAttribute('aria-label','X (Twitter)');
+a.setAttribute('data-boxo-x-icon','1');
+a.style.cssText='display:flex;align-items:center;justify-content:center;width:20px;height:20px;flex-shrink:0;margin-right:8px;';
+a.innerHTML='<svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor" style="color:rgb(21,21,21)"><path d="M18.205 2.25h3.308l-7.227 8.26 8.502 11.24H16.13l-5.214-6.817L4.95 21.75H1.64l7.73-8.835L1.215 2.25H8.04l4.713 6.231 5.45-6.231Zm-1.161 17.52h1.833L7.045 4.126H5.078L17.044 19.77Z"></path></svg>';
+return a;
+}
+function ensureIcons(){
+document.querySelectorAll('.framer-1cbsmey').forEach(function(nav){
+if(!nav.querySelector('[data-boxo-x-icon]')){nav.insertBefore(makeIcon(),nav.firstChild);}
+});
+}
+ensureIcons();
+document.addEventListener('DOMContentLoaded',ensureIcons);
+window.addEventListener('load',ensureIcons);
+new MutationObserver(ensureIcons).observe(document.documentElement,{childList:true,subtree:true});
+})();</script></body>
 </html>
